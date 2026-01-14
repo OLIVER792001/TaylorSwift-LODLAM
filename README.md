@@ -65,21 +65,19 @@ The project implements a complete transformation pipeline:
 
 ## Roles and Contributions
 
-### Yuming Lian
+### Yuming Lian  
+*Project Lead and Data Architect*
 
-*Project lead and data architect*
+- Defined the project’s overall conceptual and technical framework.  
+- Developed the core theoretical and relationship models, with CIDOC-CRM–informed entity and relation design.  
+- Built Python-based data transformation pipelines, with a focus on CSV-to-RDF generation.  
+- Integrated datasets, scripts, and web components into a coherent, publishable project structure.  
 
-* Designed the overall conceptual framework of the project.
-* Built the theoretical and conceptual models, including relationship modelling based on CIDOC-CRM.
-* Developed Python scripts for data transformation, especially for RDF generation.
-* Integrated all components into a coherent web-based project structure.
+### Yutong Li  
+*Content Curator and User Experience Designer*
 
-### Yutong Li
+- Curated and interpreted the cultural materials, defining the project’s narrative scope and public-facing storyline.  
+- Designed the metadata schema and produced a structured CSV dataset for ten items.  
+- Encoded the selected manuscript item in TEI and implemented the TEI → XML → HTML publishing workflow.  
+- Specified and validated the TEI-to-RDF semantic mapping, ensuring alignment between narrative interpretation and the data model.  
 
-*Content curator and user experience designer*
-
-* Selected and interpreted the cultural materials, defining the narrative scope of the project.
-* Designed metadata dimensions and produced structured CSV data for ten items.
-* Encoded the manuscript item in TEI and implemented the TEI → XML → HTML workflow.
-* Implemented TEI → RDF transformation and ensured the coherence between narrative meaning and data structure.
-* Designed the interpretive framework that connects Taylor Swift’s career with themes of resilience, self-ownership, and care for vulnerable communities.
